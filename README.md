@@ -1,0 +1,2 @@
+# colision-algoritham
+colision algoritham
